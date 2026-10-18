@@ -53,7 +53,7 @@ import OrderHistoryList from "./components/Driver/ListDriver/OrderHistory/OrderH
 import OrderStatusList from "./components/Driver/ListDriver/OrderStatus/OrderStatusList";
 import IncomingOrder from "./components/Driver/ListDriver/IncomingOrder/ICOrderList";
 import CreateAndjoin from "./components/CreatestoreAndJoin/CreateAndjoin";
-import CreateStore from "./components/CreatestoreAndJoin/Createstore";
+import CreateStore from "./components/CreatestoreAndJoin/CreateStore";
 import JoinStore from "./components/CreatestoreAndJoin/joinStore";
 import LocationStore from "./components/Driver/ListDriver/OrderLocation/LocationStore";
 import OrderhistoryDetail from "./components/Driver/ListDriver/OrderHistory/OrderhistoryDetail";
